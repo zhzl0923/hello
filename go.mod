@@ -1,3 +1,3 @@
-module github.com/zhzl0923
+module github.com/zhzl0923/hello
 
 go 1.22.4
